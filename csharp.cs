@@ -1,6 +1,9 @@
+#Este programa recorre los números del 1 al 100. Muestra los números pares o divisibles entre 3.
+
+
 using System;
 
-namespace basicos3
+namespace numeros
 {
     class MainClass
     {
