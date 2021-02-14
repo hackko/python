@@ -1,3 +1,6 @@
+/* Este programa te pide la cantidad de digitos que deseas comparar y al final te entrega el numero menor de todos los digitos introducidos  */
+
+
 #include <iostream>
 
 #include <stdlib.h>
