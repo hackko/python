@@ -1,0 +1,8 @@
+
+Los numeros ingresados son : 
+4
+5
+6
+-3
+
+El menor ingresado es: -3
